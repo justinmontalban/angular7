@@ -1,0 +1,12 @@
+{
+    "id":1,
+    "firstName": "Justin",
+    "lastName": "Montalban",
+    "position": "Software Engineer",
+    "company": "Google Inc",
+    "address": "Manila, Philippines",
+     "email" : "jj@angular.com",
+     "description": "Happy Coder!",
+     "image" : "https://www.gravatar.com/avatar/5b2524b1fef509c6058ac721440fc617?s=328&d=identicon&r=PG&f=1"
+}
+
